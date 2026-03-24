@@ -1,0 +1,5 @@
+{
+  "name": "Medical Diagnosis & Treatment Recommendation Planner",
+  "description": "An AI-powered deliberative agent that predicts possible diseases based on symptoms and generates structured treatment plans.",
+  "requestFramePermissions": []
+}
